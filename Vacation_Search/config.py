@@ -1,0 +1,5 @@
+weather_api_key="c35a990abf8f28c01a7b94727462e2cc" 
+
+Google_api_key="AIzaSyA5QT8Lq_L4z0npb1y8GQ8EplqD5VKih5k"
+
+NYT_api_key="YI9yHxsYFG8TcoPMAupk3A14KEGPVGfZ"
